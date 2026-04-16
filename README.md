@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Healthboost213
-- 👀 I’m interested in mostly Web Development
-- 🌱 I’m currently learning Javascript and Bootstrap
+- 👀 I’m interested in Linux and Python
+- 🌱 I’m currently learning Linux right now
 
 <!---
 Healthboost213/Healthboost213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
