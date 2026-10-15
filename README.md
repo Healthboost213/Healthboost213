@@ -17,15 +17,15 @@ end-to-end security and proper authentication of users. Mitigates SQLi Attacks,
 Cookie Forgery and other common web vulnerabilities.
 
 - **PhotoStory**: An end-to-end encrypted photo storage server written in 
-Svelte. It is meant to be lightweight and highly secure, 
-consuming only 7MB of RAM and uses server-side sessions for optimum 
+Svelte. It is meant to be lightweight and highly secure, with the client 
+only consuming 7MB of RAM and uses server-side sessions for optimum 
 security and maximum privacy. 
 
 ### Skills & Tools:
 
 **Languages**: C · Python · Go · JavaScript · SQL  
-**Dev Tools**: Git · VSCode · Docker  
-**Sec Tools**: BurpSuite · WireShark
+**Dev Tools**: Git · VS Code · Docker  
+**Sec Tools**: Burp Suite · Wireshark
 
 ### Find Me Elsewhere
 
