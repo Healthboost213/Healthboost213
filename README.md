@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Riyaz 👋</h2>
+<h1 align="center">Hello, I'm Riyaz 👋</h1>
 
 <p align="center">I'm an aspiring cybersecurity enthusiant interested in 
 pursuing penetration testing and offensive security.</p>
