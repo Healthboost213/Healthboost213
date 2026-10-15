@@ -29,5 +29,5 @@ security and maximum privacy.
 
 ### Find Me Elsewhere
 
-[Personal Website](https://monospace.lol/) | [Github](https://github.com/Healthboost213) | [LinkedIn](https://www.linkedin.com/in/mohammed-riyaz-406646416/)
+[Monospace](https://monospace.lol/) | [Github](https://github.com/Healthboost213) | [LinkedIn](https://www.linkedin.com/in/mohammed-riyaz-406646416/)
 
