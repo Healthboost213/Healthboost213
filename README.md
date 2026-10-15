@@ -19,7 +19,12 @@ Cookie Forgery and other common web vulnerabilities.
 - **PhotoStory**: An end-to-end encrypted photo storage server written in 
 Svelte. It is meant to be lightweight and highly secure, with the client 
 only consuming 7MB of RAM and uses server-side sessions for optimum 
-security and maximum privacy. 
+security and maximum privacy.
+
+- **Fragments**: A file encryption utility that allows you to break down
+plaintext into multiple pieces and store them safely, ensuring confidentiality
+and data integrity by using the latest encryption algorithms like AES-GCM and
+Argon2id.
 
 ### Skills & Tools:
 
