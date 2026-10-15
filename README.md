@@ -3,14 +3,14 @@
 <p align="center">I'm an aspiring cybersecurity enthusiant interested in 
 pursuing penetration testing and offensive security.</p>
 
-### Interests:
+### 📖 Interests:
 
 - **Security**: WebSec, AppSec, Networking and Low-level exploitation
 - **Building**: Writing useful software with the right tools to solve problems.
 - **Systems**: Understanding the fundamentals of computers through C and Assembly.
 - **Automation**: Reducing menial work through scripts and cron jobs.
 
-### Projects:
+### 💡 Projects:
 
 - **SecuVote**: A secure web voting platform written with Flask that ensures 
 end-to-end security and proper authentication of users. Mitigates SQLi Attacks, 
@@ -26,13 +26,13 @@ plaintext into multiple pieces and store them safely, ensuring confidentiality
 and data integrity by using the latest encryption algorithms like AES-GCM and
 Argon2id.
 
-### Skills & Tools:
+### 🔨 Skills & Tools:
 
-**Languages**: C · Python · Go · JavaScript · SQL  
-**Dev Tools**: Git · VS Code · Docker  
-**Sec Tools**: Burp Suite · Wireshark
+- **Languages**: C · Python · Go · JavaScript · SQL  
+- **Dev Tools**: Git · VS Code · Docker  
+- **Sec Tools**: Burp Suite · Wireshark
 
-### Find Me Elsewhere
+### 🌐 Find Me Elsewhere
 
 [Monospace](https://monospace.lol/) | [Github](https://github.com/Healthboost213) | [LinkedIn](https://www.linkedin.com/in/mohammed-riyaz-406646416/)
 
