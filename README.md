@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @Healthboost213
-- 👀 Interested in Linux, Networking and Cybersecurity
-- 🌱 I’m currently learning Linux and Python right now. 
+<h2 align="center">Hello, I'm Riyaz 👋</h2>
 
-<!---
-Healthboost213/Healthboost213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">I'm an aspiring cybersecurity enthusiant interested in 
+pursuing penetration testing and offensive security.</p>
+
+### Interests:
+
+- **Security**: WebSec, AppSec, Networking and Low-level exploitation
+- **Building**: Writing useful software with the right tools to solve problems.
+- **Systems**: Understanding the fundamentals of computers through C and Assembly.
+- **Automation**: Reducing menial work through scripts and cron jobs.
+
+### Projects:
+
+- **SecuVote**: A secure web voting platform written with Flask that ensures 
+end-to-end security and proper authentication of users. Mitigates SQLi Attacks, 
+Cookie Forgery and other common web vulnerabilities.
+
+- **PhotoStory**: An end-to-end encrypted photo storage server written in 
+Svelte. It is meant to be lightweight and highly secure, 
+consuming only 7MB of RAM and uses server-side sessions for optimum 
+security and maximum privacy. 
+
+### Skills & Tools:
+
+**Languages**: C · Python · Go · JavaScript · SQL  
+**Dev Tools**: Git · VSCode · Docker  
+**Sec Tools**: BurpSuite · WireShark
+
+### Find Me Elsewhere
+
+[Personal Website](https://monospace.lol/) | [Github](https://github.com/Healthboost213) | [LinkedIn](https://www.linkedin.com/in/mohammed-riyaz-406646416/)
+
