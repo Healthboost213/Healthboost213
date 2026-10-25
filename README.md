@@ -16,13 +16,13 @@ pursuing penetration testing and offensive security.</p>
 end-to-end security and proper authentication of users. Mitigates SQLi Attacks, 
 Cookie Forgery and other common web vulnerabilities.
 
-- **SIEMSEasy**: A plug and play SIEM utility written in Go that can detect threats 
+- **SIEMSEasy (WIP)**: A plug and play SIEM utility written in Go that can detect threats 
 through robust log parsing and provides a modular approach to data storage and access.
-It verifies logs and provides data redundancy in the event of failures. (WIP)
+It verifies logs and provides data redundancy in the event of failures.
 
-- **ESP-FIDO**: An ESP32 implementation of the FIDO2 protocol used in security keys.
+- **ESP-FIDO (WIP)**: An ESP32 implementation of the FIDO2 protocol used in security keys.
 Implements CTAPHID, CBOR as well as secure storage of keys and passcodes. Written
-completely in C. (WIP)
+completely in C.
 
 - **PhotoStory**: An end-to-end encrypted photo storage server written in 
 Svelte. It is meant to be lightweight and highly secure, with the client 
