@@ -36,7 +36,7 @@ Argon2id.
 
 ### 🔨 Skills & Tools:
 
-- **Languages**: C · Python · Go · JavaScript · SQL  
+- **Languages**: C · Python · Go · JavaScript · HTML/CSS · SQL  
 - **Dev Tools**: Git · VS Code · Docker  
 - **Sec Tools**: Burp Suite · Wireshark
 
