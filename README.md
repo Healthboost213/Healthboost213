@@ -16,7 +16,7 @@ pursuing penetration testing and offensive security.</p>
 end-to-end security and proper authentication of users. Mitigates SQLi Attacks, 
 Cookie Forgery and other common web vulnerabilities.
 
-- **SIEMSEasy (WIP)**: A plug and play SIEM utility written in Go that can detect threats 
+- **SIEMSeasy (WIP)**: A plug and play SIEM utility written in Go that can detect threats 
 through robust log parsing and provides a modular approach to data storage and access.
 It verifies logs and provides data redundancy in the event of failures.
 
