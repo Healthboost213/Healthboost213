@@ -5,7 +5,7 @@ pursuing penetration testing and offensive security.</p>
 
 ### 📖 Interests:
 
-- **Security**: WebSec, AppSec, Networking and Low-level exploitation
+- **Security**: Web and App Exploitation, Networking and Low-level Exploitation
 - **Building**: Writing useful software with the right tools to solve problems.
 - **Systems**: Understanding the fundamentals of computers through C and Assembly.
 - **Automation**: Reducing menial work through scripts and cron jobs.
